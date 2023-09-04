@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/vj_paranoia/zombie/head3d"
-	"$bumpmap" "models/vj_paranoia/zombie/head3c_n"
+	"$bumpmap" "models/vj_paranoia/zombie/head3d_n"
 	
 	"$phong" "1"
 	"$phongexponent" "100"					
