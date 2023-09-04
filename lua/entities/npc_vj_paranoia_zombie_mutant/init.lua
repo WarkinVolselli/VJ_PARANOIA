@@ -241,6 +241,11 @@ end
 ---------------------------------------------------------------------------------------------------------------------------------------------
 function ENT:CustomOnInitialize()
 	self:SetBodygroup(1,math.random(0,2))
+	
+	if math.random(1,3) == 1 then
+		self:SetBodygroup(2,1)
+	end
+	
 	if GetConVar("vj_paranoia_mutzom_leap"):GetInt() == 1 then
        self.HasLeapAttack = true
 	else
@@ -248,7 +253,7 @@ function ENT:CustomOnInitialize()
 	end
 
 	if GetConVar("vj_paranoia_mutzom_betarun"):GetInt() == 1 then
-       self.AnimTbl_Run = {ACT_RUN_ANGRY}
+       self.AnimTbl_Run = {ACT_RUN_RELAXED}
 	else
        self.AnimTbl_Run = {ACT_RUN}
 	end
