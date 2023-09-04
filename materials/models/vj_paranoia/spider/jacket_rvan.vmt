@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/spider/jacket_rvan"
+	"$bumpmap"    "models/vj_paranoia/spider/jacket_rvann"
+	"$translucent" "1"
+	
+}

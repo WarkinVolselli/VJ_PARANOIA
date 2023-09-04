@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/spider/eye1"
+    "$selfillum" "1"
+	"$halflambert" "1"
+}
