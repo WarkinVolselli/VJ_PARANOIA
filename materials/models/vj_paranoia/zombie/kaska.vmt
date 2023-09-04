@@ -4,9 +4,10 @@
     "$bumpmap" "models/vj_paranoia/zombie/kaska_n"
 	
 	"$envmapmask" "models/vj_paranoia/zombie/kaska_s"
+	"$envmap" "env_cubemap"
 	
 	"$phong" "1"
-	"$phongexponent" "15"					
-	"$phongboost"	"1" 
-	"$phongfresnelranges"	"[ 0.7 0.9 1]"
+	"$phongexponent" "50"					
+	"$phongboost"	"0.5" 
+	"$phongfresnelranges" "[ 0.7 1 0.7] "
 }
