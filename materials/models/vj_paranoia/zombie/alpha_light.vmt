@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/zombie/alpha_light"
+    "$bumpmap" "models/vj_paranoia/zombie/alpha_light_n"
+}

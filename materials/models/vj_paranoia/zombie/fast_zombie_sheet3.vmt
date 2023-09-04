@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/vj_paranoia/zombie/fast_zombie_sheet3"
+	"$alphatest" 1
+	"$bumpmap" "models/vj_paranoia/zombie/fast_zombie_sheet3_normal"
+
+	"$phong" "1"
+	"$phongexponent" "100"					
+	"$phongboost"	"1" 
+	"$phongfresnelranges"	"[ 0.7 0.9 1]"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/zombie/alpha_light2"
+	
+	"$bumpmap" "models/vj_paranoia/zombie/alpha_light2_n"
+	"$halflambert" "1"
+	"$translucent" "1"
+	"$alphatest" "1"
+}

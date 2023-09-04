@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/zombie/chromea"
+	"$bumpmap" "models/vj_paranoia/zombie/chromea_n"
+	
+	"$halflambert" "1"
+}

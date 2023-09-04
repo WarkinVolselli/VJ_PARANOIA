@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vj_paranoia/zombie/odds_and_ends"
+    "$bumpmap" "models/vj_paranoia/zombie/odds_and_ends_n"
+}
